@@ -33,3 +33,11 @@ h2 {
     color: transparent;
     font-size: 50px;
 }
+
+body {
+    background-color: rgb(116, 81, 81);
+}
+
+p {
+    color: #ffffff;
+}
