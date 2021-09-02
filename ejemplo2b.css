@@ -1,0 +1,39 @@
+fichero {
+    background-color: green
+}
+
+pais {
+    background-color: blue;
+    display: block;
+    font-size: 50px;
+}
+
+departamento {
+    color: black;
+    display: inline;
+    font-size: 50px;
+}
+
+cabecera {
+    color: black;
+    display: block;
+    font-size: 50px;
+}
+
+altura {
+    color: black;
+    font-size: 50px;
+    display: block;
+}
+
+territorio {
+    color: black;
+    font-size: 50px;
+    display: block;
+}
+
+idioma {
+    color: black;
+    font-size: 50px;
+    display: block;
+}

@@ -1,0 +1,57 @@
+fichero {
+    background-color: yellow
+}
+
+ficha {
+    background-color: blue;
+    display: block;
+    font-size: 50px;
+}
+
+nombre {
+    color: green;
+    display: inline;
+    font-size: 50px;
+}
+
+apellido {
+    color: black;
+    display: inline;
+    font-size: 50px;
+}
+
+direccion {
+    color: yellow;
+    font-size: 50px;
+    display: none;
+}
+
+dui {
+    font-size: 50px;
+    color: black;
+    display: none;
+}
+
+isss {
+    font-size: 50px;
+    color: black;
+    display: none;
+}
+
+afp {
+    font-size: 50px;
+    color: black;
+    display: none;
+}
+
+mail {
+    font-size: 50px;
+    color: black;
+    display: none;
+}
+
+website {
+    font-size: 50px;
+    color: black;
+    display: none;
+}
