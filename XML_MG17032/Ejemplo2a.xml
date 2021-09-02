@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type= "text/css" href= "/ejemplo2a.css" ?>
+<!-- ejemplo2.xml  MG17032 -->
+<pais nombre="El Salvador" moneda="Dolar" codigo="+503">
+    <departamento id="1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+      <habitantes>1,700,000</habitantes>
+      <altura>545 MSNM</altura>
+    </departamento>
+    
+    <departamento id="2" nombre="La libertad">
+      <cabecera>Santa Tecla</cabecera>
+      <habitantes>843,500</habitantes>
+      <altura>493 MSNM</altura>
+      <teritorio>1653 km cuadrado</teritorio>
+      <idioma tipo="nativo">Español</idioma>
+    </departamento>
+</pais>
